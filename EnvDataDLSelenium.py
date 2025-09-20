@@ -1,3 +1,5 @@
+# login env.nem.com.hk:10027 to download data
+# by NEM (Novox E&M Limited)
 import tkinter as tk
 from tkinter import filedialog, messagebox, ttk
 import openpyxl
